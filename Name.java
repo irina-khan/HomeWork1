@@ -4,7 +4,7 @@ public class Name{
         final String ending = "!";
 
         //Вставляем имя
-        String Name = "Irina";
+        String Name = "Teacher";
 
         System.out.println(Greatings + Name+ending);
     }
