@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="125bc38e-bf9f-4fe9-955a-6e0473a6306c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VKlGsTj6uKSDgXGbSAYphWtASz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeapYear.java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Java Scratch.DataType">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculation" type="Java Scratch" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="Calculation" />
+      <module name="HomeWork1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Calculation.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataType" type="Java Scratch" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="DataType" />
+      <module name="HomeWork1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/DataType.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYear" type="Java Scratch" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="LeapYear" />
+      <module name="HomeWork1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/LeapYear.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Java Scratch" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Main.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Name" type="Java Scratch" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="Name" />
+      <module name="HomeWork1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Name.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Negative" type="Java Scratch" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="Negative" />
+      <module name="HomeWork1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Negative.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task10to20" type="Java Scratch" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="Task10to20" />
+      <module name="HomeWork1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Task10to20.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Main.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="positive_negative" type="Java Scratch" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="positive_negative" />
+      <module name="HomeWork1" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/positive_negative.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Java Scratch.Task10to20" />
+      <item itemvalue="Java Scratch.positive_negative" />
+      <item itemvalue="Java Scratch.Negative" />
+      <item itemvalue="Java Scratch.Name" />
+      <item itemvalue="Java Scratch.Main" />
+      <item itemvalue="Java Scratch.DataType" />
+      <item itemvalue="Java Scratch.LeapYear" />
+      <item itemvalue="Java Scratch.Calculation" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="125bc38e-bf9f-4fe9-955a-6e0473a6306c" name="Default Changelist" comment="" />
+      <created>1577009574307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577009574307</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="215" key="#DataType" timestamp="1577020213639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="215" key="#DataType/0.0.1920.1040@0.0.1920.1040" timestamp="1577020213639" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577032014759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577032014759" />
+    <state x="959" y="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577024022138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="959" y="416" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577024022138" />
+    <state x="690" y="302" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577021243533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="302" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577021243533" />
+    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577020282147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="311" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577020282147" />
+    <state x="722" y="402" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577020359825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="402" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1577020359825" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1577028787219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577028787219" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1577032032406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577032032406" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1577032032406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577032032406" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1577032032406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577032032406" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1577032032406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577032032406" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1577018623066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577018623066" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1577018623065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577018623065" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1577018623065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577018623065" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1577018623066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577018623066" />
+    <state x="440" y="98" key="SettingsEditor" timestamp="1577015661774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577015661774" />
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1577020315963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577020315963" />
+    <state x="878" y="393" key="extract.method.dialog" timestamp="1577012607282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="878" y="393" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577012607282" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577015699956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577015699956" />
+  </component>
+</project>
